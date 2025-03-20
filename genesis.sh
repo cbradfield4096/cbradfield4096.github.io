@@ -61,5 +61,3 @@ git remote -v # verify URL of remote
 git push -u origin main # set upstream origin to main
 
 echo "check out "$github_pages_url
-
-# gh repo delete $github_username"/"$repo_name # prompts user to enter y to confirm
